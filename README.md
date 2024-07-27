@@ -3,19 +3,18 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Bonu Dhanumjaya, Aspiring Software Dev</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [NEED_IN]([https://github.com/rishavanand/github-profilinator](https://github.com/Bdhanumjaya/FULL_STACK_NEED_IN.git))  
+
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+- 🌱 I’m currently learning Reactjs & spring frame Work  
+ 
+-📫How to reach me : dhanumjayabonu321@gmail.com  
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I'am comming to team
   
 
 <br/>  
