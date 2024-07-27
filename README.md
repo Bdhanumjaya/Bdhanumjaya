@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Reactjs & spring frame Work  
  
--📫How to reach me : dhanumjayabonu321@gmail.com  
+📫How to reach me : dhanumjayabonu321@gmail.com  
 
 - ⚡ Fun fact: I'am comming to team
   
